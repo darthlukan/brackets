@@ -1,0 +1,12 @@
+{
+    "name": "darthlukan.helloworld",
+    "title": "Hello World!",
+    "description": "Code provided by Adobe/Brackets as an example extension.",
+    "homepage": "https://github.com/darthlukan/brackets",
+    "version": "1.0.0",
+    "author": "Brian Tomlinson <darthlukan@gmail.com> (http://www.brianctomlinson.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
